@@ -1,4 +1,4 @@
-Absolutely, Ahtesham! Here's a polished `README.md` for your custom 74181-style ALU module that you can proudly upload to GitHub. It includes a clear overview, usage instructions, simulation details, and contributor notes—all geared toward making your project welcoming and showcase-ready.
+
 
 ---
 
