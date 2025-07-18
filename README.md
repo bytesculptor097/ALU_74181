@@ -2,7 +2,7 @@ Absolutely, Ahtesham! Here's a polished `README.md` for your custom 74181-style 
 
 ---
 
-```markdown
+
 # 🔧 74181 ALU Simulation in Verilog
 
 A simulation of the classic 4-bit 74181 Arithmetic Logic Unit (ALU), built from scratch in Verilog. This project models key features of the original chip, including arithmetic, logical operations, and status flags—perfect for learning CPU architecture and digital logic design.
