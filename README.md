@@ -77,6 +77,6 @@ Use the `F` and `M` control inputs to select operations. You can modify the test
 ## 👨‍💻 Author
 
 **Ahtesham** — passionate about hardware simulation, game development, and building systems from the ground up.  
-💡 Reach out or check out more of my work on [GitHub](https://github.com/bytesculptor097) or [LinkedIn]().
+💡 Reach out or check out more of my work on [GitHub](https://github.com/bytesculptor097) or [LinkedIn](https://www.linkedin.com/in/ahtesham-ahmed-779845365/).
 
 
