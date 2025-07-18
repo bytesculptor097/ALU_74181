@@ -20,7 +20,6 @@ This simulation brings that vintage design into code—ideal for students, hobby
   - Arithmetic (ADD, SUB, increment, decrement)
 - ⚡ Status flags:
   - Carry out
-  - Overflow
   - A equals B
 - 🛠️ Modular Verilog code for easy customization
 - 🧪 Includes testbench with waveform simulation (compatible with Iverilog/GTKWave)
@@ -78,6 +77,6 @@ Use the `F` and `M` control inputs to select operations. You can modify the test
 ## 👨‍💻 Author
 
 **Ahtesham** — passionate about hardware simulation, game development, and building systems from the ground up.  
-💡 Reach out or check out more of my work on [GitHub](https://github.com/your-profile) or [LinkedIn](https://linkedin.com/in/your-profile).
+💡 Reach out or check out more of my work on [GitHub](https://github.com/bytesculptor097) or [LinkedIn]().
 
 
